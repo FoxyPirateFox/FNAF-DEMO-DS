@@ -7,7 +7,7 @@ To play the game, you'll need an R4, you'll need to connect it to your computer,
 
 It's that simple
 
-Also this is only a BETA version, so there's more to come, and more games. Contact me if you find any glitch
+Also this is only a BETA version,so there might be glitches. And since it's only a beta, there's more to come.
 
 
 Have Fun Playing :)
